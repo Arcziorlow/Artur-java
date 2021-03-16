@@ -1,1 +1,3 @@
-rootProject.name = 'demo'
+rootProject.name = 'java-course'
+include 'java-testing'
+
